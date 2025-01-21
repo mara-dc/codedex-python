@@ -1,4 +1,4 @@
-### What is Codédex Python?
+### What is Codédex Python course?
 It's a beginner course on Python offered by Codédex. See course [here](https://www.codedex.io/python)!
 
 ### What's in this repository?
